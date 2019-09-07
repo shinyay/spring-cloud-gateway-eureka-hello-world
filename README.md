@@ -1,8 +1,14 @@
-# Name
+# Spring Cloud Eureka / Gateway for Hello World
 
-Overview
+Spring Cloud Getting Started for Eureka and Gateway
 
 ## Description
+
+- Following repositories as submodule
+  - [spring-cloud-eureka-hello-world](https://github.com/shinyay/spring-cloud-eureka-hello-world)
+    - Spring Cloud Eureka Server
+  - [spring-cloud-gateway-hello-world](https://github.com/shinyay/spring-cloud-gateway-hello-world)
+    - Spring Cloud Gateway
 
 ## Demo
 
