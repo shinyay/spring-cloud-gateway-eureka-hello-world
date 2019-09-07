@@ -1,3 +1,6 @@
 [submodule "spring-cloud-eureka-hello-world"]
 	path = spring-cloud-eureka-hello-world
 	url = https://github.com/shinyay/spring-cloud-eureka-hello-world.git
+[submodule "spring-cloud-gateway-hello-world"]
+	path = spring-cloud-gateway-hello-world
+	url = https://github.com/shinyay/spring-cloud-gateway-hello-world.git
