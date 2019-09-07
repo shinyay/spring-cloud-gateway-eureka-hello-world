@@ -1,0 +1,3 @@
+[submodule "spring-cloud-eureka-hello-world"]
+	path = spring-cloud-eureka-hello-world
+	url = https://github.com/shinyay/spring-cloud-eureka-hello-world.git
