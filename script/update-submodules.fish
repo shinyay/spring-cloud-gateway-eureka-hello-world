@@ -10,7 +10,7 @@ function update_submodules
   end
 
   set -lq _flag_command
-  or set -l _flag_command update
+  or set -l _flag_command foreach git pull origin master
 
   git submodule $_flag_command
 end
