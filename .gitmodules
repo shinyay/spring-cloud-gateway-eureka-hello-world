@@ -4,3 +4,6 @@
 [submodule "spring-cloud-gateway-hello-world"]
 	path = spring-cloud-gateway-hello-world
 	url = https://github.com/shinyay/spring-cloud-gateway-hello-world.git
+[submodule "spring-cloud-app-hello-world"]
+	path = spring-cloud-app-hello-world
+	url = https://github.com/shinyay/spring-cloud-app-hello-world.git
