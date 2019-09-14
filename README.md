@@ -28,6 +28,11 @@ Spring Cloud Getting Started for Eureka and Gateway
 $ git submodule add <REPOSITORY_URL>
 ```
 
+#### Update submodule from GitHub
+```
+$ git submodule foreach git pull origin master
+```
+
 ## Installation
 
 ## Licence
