@@ -9,6 +9,8 @@ Spring Cloud Getting Started for Eureka and Gateway
     - Spring Cloud Eureka Server
   - [spring-cloud-gateway-hello-world](https://github.com/shinyay/spring-cloud-gateway-hello-world)
     - Spring Cloud Gateway
+  - [spring-cloud-app-hello-world](https://github.com/shinyay/spring-cloud-app-hello-world)
+    - Kotlin App with Spring Cloud Eureka Client
 
 ## Demo
 
