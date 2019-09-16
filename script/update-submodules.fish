@@ -5,7 +5,19 @@ function update_submodules
   or return 1
 
   if set -lq _flag_help
-    echo "update-submodules.fish -t/--target <get/post>"
+    echo "update-submodules.fish -c/--command <FOLLOWING_COMMAND> "
+    echo "    add"
+    echo "    status"
+    echo "    init"
+    echo "    deinit"
+    echo "    update"
+    echo "    summary"
+    echo "    foreach"
+    echo "    sync"
+    echo "    absorbgitdirs"
+    echo ""
+    echo "Example:"
+    echo "update-submodules.fish -c status"
     return
   end
 
